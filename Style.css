@@ -11,15 +11,15 @@ body {
   padding: 20px 10px;
   border: 5px solid #ff0000;
   box-shadow: 0 0 40px red;
-  margin: 30px auto;
-  width: 70%;
+  margin: 20px auto;
+  width: 50%;
   background: #222;
   border-radius: 10px;
 }
 
 video {
-  width: 80%;
-  max-width: 620px;
+  width: 50%;
+  max-width: 420px;
   border: 5px solid #fff;
   border-radius: 10px;
   box-shadow: 0 0 20px #fff;
