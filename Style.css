@@ -10,7 +10,7 @@ body {
 .theater {
   padding: 20px 10px;
   border: 5px solid #ff0000;
-  box-shadow: 0 0 40px red;
+  box-shadow: 0 0 30px red;
   margin: 20px auto;
   width: 50%;
   background: #222;
@@ -19,14 +19,14 @@ body {
 
 video {
   width: 50%;
-  max-width: 420px;
+  max-width: 520px;
   border: 5px solid #fff;
   border-radius: 10px;
-  box-shadow: 0 0 20px #fff;
+  box-shadow: 0 0 10px #fff;
 }
 
 .buttons {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 button {
