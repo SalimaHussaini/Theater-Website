@@ -8,18 +8,18 @@ body {
 }
 
 .theater {
-  padding: 40px 20px;
+  padding: 20px 10px;
   border: 5px solid #ff0000;
   box-shadow: 0 0 40px red;
-  margin: 40px auto;
-  width: 80%;
+  margin: 30px auto;
+  width: 70%;
   background: #222;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 video {
-  width: 90%;
-  max-width: 720px;
+  width: 80%;
+  max-width: 620px;
   border: 5px solid #fff;
   border-radius: 10px;
   box-shadow: 0 0 20px #fff;
