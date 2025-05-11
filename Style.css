@@ -12,15 +12,15 @@ body {
   border: 3px solid #ff0000;
   box-shadow: 0 0 30px red;
   margin: 40px auto;
-  width: 90%;
+  width: 80%;
   max-width: 800px;
   background: #111;
   border-radius: 20px;
 }
 
 video {
-  width: 80%;
-  max-width: 720px;
+  width: 60%;
+  max-width: 768px;
   height: auto
   border: 3px solid #fff;
   border-radius: 10px;
