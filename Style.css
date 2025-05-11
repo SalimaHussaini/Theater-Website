@@ -18,11 +18,12 @@ body {
 }
 
 video {
-  width: 50%;
-  max-width: 520px;
-  border: 5px solid #fff;
+  width: 80%;
+  max-width: 720px;
+  height: auto
+  border: 3px solid #fff;
   border-radius: 10px;
-  box-shadow: 0 0 10px #fff;
+  box-shadow: 0 0 20px #fff;
 }
 
 .buttons {
