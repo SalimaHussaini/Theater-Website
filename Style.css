@@ -9,12 +9,13 @@ body {
 
 .theater {
   padding: 20px 10px;
-  border: 5px solid #ff0000;
+  border: 3px solid #ff0000;
   box-shadow: 0 0 30px red;
-  margin: 20px auto;
-  width: 50%;
-  background: #222;
-  border-radius: 10px;
+  margin: 40px auto;
+  width: 90%;
+  max-width: 800px;
+  background: #111;
+  border-radius: 20px;
 }
 
 video {
